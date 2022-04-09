@@ -1,0 +1,5 @@
+owner = BLV
+controller = BLV
+add_core = BLV
+trade_goods = grain
+life_rating = 30

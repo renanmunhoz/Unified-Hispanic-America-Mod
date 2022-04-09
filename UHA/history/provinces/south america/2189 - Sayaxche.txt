@@ -1,0 +1,10 @@
+owner = BLV
+controller = BLV
+add_core = BLV
+add_core = GUA
+trade_goods = timber
+life_rating = 30
+1861.1.1 = {
+	owner = GUA
+	controller = GUA
+}

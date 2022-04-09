@@ -1,0 +1,6 @@
+owner = BLV
+controller = BLV
+add_core = BLV
+add_core = GCO
+trade_goods = fruit
+life_rating = 35
